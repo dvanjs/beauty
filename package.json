@@ -1,0 +1,25 @@
+{
+  "name": "beauty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dvanjs/beauty.git",
+  "author": "evila <ijoec123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "dvan dev",
+    "build": "dvan build",
+    "generate": "dvan generate"
+  },
+  "devDependencies": {
+    "dvan": "^2.0.0-alpha.14"
+  },
+  "dependencies": {
+    "firebase": "^5.5.9",
+    "lodash.shuffle": "^4.2.0"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "prettier": true
+  }
+}
