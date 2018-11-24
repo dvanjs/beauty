@@ -7,8 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "dvan dev",
-    "build": "dvan build",
-    "generate": "dvan generate"
+    "build": "dvan build"
   },
   "devDependencies": {
     "dvan": "^2.0.0-alpha.14"
