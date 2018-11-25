@@ -10,11 +10,12 @@
     "build": "dvan build"
   },
   "devDependencies": {
-    "dvan": "^2.0.0-alpha.14"
+    "dvan": "^2.0.0-alpha.17"
   },
   "dependencies": {
     "firebase": "^5.5.9",
-    "lodash.shuffle": "^4.2.0"
+    "lodash.shuffle": "^4.2.0",
+    "vue": "^2.5.17"
   },
   "xo": {
     "space": true,
